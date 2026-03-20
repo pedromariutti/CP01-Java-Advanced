@@ -6,10 +6,10 @@ O objetivo principal da aplicação é demonstrar o domínio sobre persistência
 
 ## 🚀 Tecnologias e Ferramentas Utilizadas
 * **Java** JDK 21.
-* **JPA / Hibernate:** 
-* **Oracle SQL Developer:** Banco de dados relacional (Nuvem FIAP).
-* **API Reflection:**
-* **IntelliJ IDEA:** 
+* **JPA / Hibernate** 
+* **Oracle SQL Developer** Banco de dados relacional (Nuvem FIAP).
+* **API Reflection**
+* **IntelliJ IDEA** 
 
 ## ⚙️ Funcionalidades e Requisitos Atendidos
 1. **Modelagem de Entidades e Polimorfismo:** Criação da classe base `Funcionario` e das subclasses `FuncionarioSenior` e `Estagiario`, cada uma com suas próprias regras de negócio para o cálculo de salário.
