@@ -5,7 +5,7 @@ Este projeto foi desenvolvido como requisito para a avaliação "Checkpoint 1" d
 O objetivo principal da aplicação é demonstrar o domínio sobre persistência de dados utilizando a **Java Persistence API (JPA)** com o framework **Hibernate**, além de Orientação a Objetos, Annotations e Reflection API.
 
 ## 🚀 Tecnologias e Ferramentas Utilizadas
-* **Java:** 
+* **Java** JDK 21.
 * **JPA / Hibernate:** 
 * **Oracle SQL Developer:** Banco de dados relacional (Nuvem FIAP).
 * **API Reflection:**
