@@ -1,4 +1,4 @@
-# Checkpoint 1 - Java Advanced: JPA & Annotations
+# Checkpoint 1 - Java Advanced: JPA & Annotations.
 
 Este projeto foi desenvolvido como requisito para a avaliação "Checkpoint 1" da disciplina de Java Advanced no curso de Análise e Desenvolvimento de Sistemas da FIAP. 
 
