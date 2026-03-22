@@ -20,3 +20,10 @@ O objetivo principal da aplicação é demonstrar o domínio sobre persistência
    * **R**ead (Simulado via Reflection e Select do BD)
    * **U**pdate (`merge`)
    * **D**elete (`remove`)
+
+## ⚙️ Integrantes 
+* Ana Clara Oliveira Nascimento RM 561957
+* Isis Macedo e Andrade RM 561497
+* Henrique Orellana RM 565608
+* Pedro Mariutti RM 75999
+* Rafael Carvalho Meireles RM 563413
